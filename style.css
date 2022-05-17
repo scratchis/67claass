@@ -1,0 +1,30 @@
+.line
+{
+    height: 6px;
+    background-color:black;
+    width: 70px;
+    margin: 8px auto;
+}
+body
+{
+    text-align: center;
+}
+#apps
+{
+    background-color: rgba(13, 199, 255, 0.959);
+}
+#games
+{
+    background-color: rgb(202, 13, 219);
+}
+#chatbots
+{
+    background-color: rgb(255, 207, 104);
+}
+.carousel-inner p
+{
+    color: white;
+    font-size: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
